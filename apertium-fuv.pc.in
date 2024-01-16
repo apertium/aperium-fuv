@@ -1,0 +1,8 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+srcdir=@datarootdir@/apertium/apertium-fuv
+
+Name: apertium-fuv
+Description: Finite-state morphological transducer and constraint grammar for Nigerian Fulfulde
+Version: @VERSION@
+
